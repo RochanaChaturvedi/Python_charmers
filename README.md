@@ -1,6 +1,8 @@
 # Python_charmers
-This repository contains notebooks to teach Python programming. They were created to accompany my lectures for the Introduction to Programming course at University of Delhi. 
-They are beginner friendly (hopefully) and based on Python3. So start practicing for a quick hands-on introduction to Python.
+This repository contains notebooks for a quick hands-on introduction to Python programming. 
+They are beginner friendly (hopefully) and based on Python3.
+
+They were created to accompany my lectures for the Introduction to Programming course at University of Delhi. 
 
 ## Licence
 Please feel free to use/modify/share/distribute.
